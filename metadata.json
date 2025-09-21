@@ -1,0 +1,5 @@
+{
+  "name": "SportsSync",
+  "description": "A web application for social media management that lets users connect their Instagram Business/Creator account to read basic profile and media information.",
+  "requestFramePermissions": []
+}
